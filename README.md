@@ -7,3 +7,5 @@ Statistics used includes:
 * Season records
 * Current form from the most recent five games
 * Home game advantage
+
+API is used from api.football-data.org
